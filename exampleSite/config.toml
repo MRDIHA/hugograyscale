@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://www.vigilant-kilby-8072bf.netlify.com"
 languageCode = "en-us"
 title = "Hugo Grayscale Theme"
 theme = "hugograyscale"
